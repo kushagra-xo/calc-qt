@@ -18,14 +18,6 @@ public:
     ~calc();
 
 private slots:
-    void on_add_clicked();
-
-    void on_sub_clicked();
-
-    void on_mul_clicked();
-
-    void on_div_clicked();
-
 private:
     Ui::calc *ui;
 };
