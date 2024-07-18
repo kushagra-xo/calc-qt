@@ -12,6 +12,7 @@ calc::~calc()
 {
     delete ui;
 }
+
 int64_t num1{0};
 int64_t num2{0};
 int64_t result{0};
